@@ -1,6 +1,6 @@
 # 💎 Ruby projekty
 
-Tento repozitář obsahuje moje osobní i školní projekty napsané v jazyce Ruby.
+Tento repozitář obsahuje moje osobní  projekty napsané v jazyce Ruby.
 
 ---
 
@@ -13,7 +13,7 @@ Najdeš zde různé jednoduché konzolové aplikace a experimenty.
 
 ## 🧠 Co tu najdeš
 
-- školní úlohy
+- soukrome programy
 - jednoduché programy
 - konzolové aplikace
 - malé experimenty s Ruby
